@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_camera">cameraActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_take__a__picture">Take_A_Picture</string>
+
+    <item name="button_Retake" type="id" />
+</resources>
